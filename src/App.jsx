@@ -28,7 +28,7 @@ function App() {
             Testimonial 
             Clients 
             CTA 
-            Footer 
+            Footers
           </div>
         </div>
 
